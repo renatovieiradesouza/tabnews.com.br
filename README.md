@@ -1,2 +1,2 @@
 # tabnews.com.br
-Curso do Felipe Deschamps
+Curso do Filipe Deschamps
